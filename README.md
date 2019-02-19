@@ -2,7 +2,7 @@
 
 > You can contact me on twitter as [@mandubian](http://twitter.com/mandubian)
 
-The notebook [tf-neural-ode-v1.1.ipynb](tf-neural-ode-v1.1.ipynb) is a sandbox to test concepts exposed in this amazing paper:
+The notebook is a sandbox to test concepts exposed in this amazing paper:
 
 This notebook is a sandbox to test concepts exposed in this amazing paper:
 
@@ -28,3 +28,5 @@ For ODE Solver, I wanted to compare implementations in TF with Scipy very robust
 ### v1.0 [tf-neural-ode-v1.0.ipynb](tf-neural-ode-v1.0.ipynb)
 - First Implementation of TF augmented gradient
 - Samples with basic optimization on whole dataset
+
+**Licensed under MIT License**
